@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Araí Research"
+message: "Si utiliza materiales de este repositorio, cite la pieza específica y su versión."
+type: dataset
+authors:
+  - family-names: "Cabrera Fernández"
+    given-names: "Pablo Andrés"
+    alias: "Pol"
+repository-code: "https://github.com/iaraaraigames-design/arai-research"
+license: "CC-BY-NC-4.0"
